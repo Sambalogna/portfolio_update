@@ -19,6 +19,8 @@ nav{
   .carousel-caption {
     width: 70% !important;
     height:30% !important;
+    min-height: 30% !important;
+    max-height: 30% !important;
     background-color: grey;
     opacity: .7;
     color: black;
@@ -34,4 +36,31 @@ nav{
 
 .carousel-indicators {
     filter: invert(100%);
+}
+footer {
+    background-color: #B80F0A;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+ol {
+    text-align: center; 
+}
+li {
+    display: inline;
+    padding: 5px; 
+    color: white;
+    
+}
+a {
+    color: white;
+}
+
+footer {
+    margin-bottom: auto;
+    position: static;
+}
+footer ol {
+    margin-bottom: -1rem;
 }
