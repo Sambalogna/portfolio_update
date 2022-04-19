@@ -13,7 +13,7 @@ This is an update to my original Portfolio page. The site uses Bootstrap v4.5 to
 *JQuery UI CSS
 
 ## Site 
-![Portfolio](.\assets\images\portfolio_gif.gif)
+![Portfolio](.\assets\images\portfolio.gif)
 [Portfolio](https://sambalogna.github.io/portfolio_update/)
 
 ## Key Coding Snippets
