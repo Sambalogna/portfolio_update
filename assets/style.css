@@ -18,9 +18,14 @@ nav{
   }
   .carousel-caption {
     width: 70% !important;
-    height:40% !important;
-    /* vertical-align: middle !important; */
+    height:30% !important;
+    background-color: grey;
+    opacity: .7;
     color: black;
+    border-radius: 7px;
+}
+.carousel-caption:hover {
+    opacity: .9;
 }
 .carousel-control-next,
 .carousel-control-prev {
