@@ -1,0 +1,32 @@
+body {
+    background-color: grey;
+}
+.projectContainer {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+nav{
+    background-color: #B80F0A !important;
+    opacity: .9;
+}
+.carousel-inner img{
+    width:100%;
+    max-height: 500px !important;
+    border: 2px solid black;
+    border-radius: 7px;
+  }
+  .carousel-caption {
+    width: 70% !important;
+    height:40% !important;
+    /* vertical-align: middle !important; */
+    color: black;
+}
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.carousel-indicators {
+    filter: invert(100%);
+}
